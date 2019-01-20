@@ -23,3 +23,10 @@ How do the diagrams help you visualize the branch structure?
 
 	With the diagrams I can review the history of my commits and the branches that have been created durint the
 	lifecycle of my projects, that can also help me merge the additional branches to the master branch if I need to
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+	When I merge 2 branches, all the commits from both branches get combined , starting from the last point in conjuction
+	both branchs have before being created.
+	I think you represent it that way to show that with the merge u combine all the commits made from the branches to 
+	a base point, this means that no commit in both branches gets lost with the merge
