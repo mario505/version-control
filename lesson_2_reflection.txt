@@ -19,4 +19,7 @@ What are some situations when branches would be helpful in keeping your history 
 	For example, if I need to test new extra features that are not central to my projects, but I'm not sure yet on 
 	how to make them and I need to test this new changes while advancing with the main version as planned.
 	
-	
+How do the diagrams help you visualize the branch structure?
+
+	With the diagrams I can review the history of my commits and the branches that have been created durint the
+	lifecycle of my projects, that can also help me merge the additional branches to the master branch if I need to
