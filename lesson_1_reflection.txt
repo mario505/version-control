@@ -1,0 +1,78 @@
+How did viewing a diff between two versions of a file help you see the bug that
+ was introduced?
+
+	It helped me to see that the bug was because a change in the code wasn´t mode properlly    
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the 
+long term?
+
+	It can make the control of the versions of my programs easier, if i want to reverse a change i made, 
+	i'ts obviously easier to use a tool that controls the versions of my code because the human error 
+	is decreaces to almost zero this way
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+	
+	The pros of saving manually is that i can choose how to logically save the versions of my programs, this 
+	cannot be automatized perfectly because the size of the commit is never the same in time and quantity,
+	it depends more on the impact of the changes that is made in each version of the code.
+	Automatically saving versions has the drawback of never saving my versions in just the way i want them, 
+	the savings depend entirely on the logic that the softwate uses.
+	
+	old beofre ver 15:
+	
+	I think the pros are that it is easier to do, but you would need to be very precise and coordinate to 
+	control manually all the in your code if u need to control the version by yourself.
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while 
+others, like Google Docs, treat each file separately?
+ 
+	I think its because git is focused in programming version control, while google docs is more focused on
+	making the user dont have such a hard time with the control of the version of its documents.
+ 
+	old before ver 18:
+	
+	I'm not sure
+
+How can you use the commands git log and git diff to view the history of files?
+
+	git log lets me see the full list of version in my git repository and diff lets me compare de version to one another
+
+	old before ver 21
+
+	I don't have experience using git
+
+How might using version control make you more confident to make changes that could break something?
+	
+	I can revise the diferente version of my code and check for errors one by one if neccesary, and with the 
+	checkout command i can go back to the newest version of my code without worrying about losing the 
+	right version of my code
+	
+	old before ver 26
+	
+	With an automated version control i can reverse my changes to a good version almost instantly (or so 
+	i have heard)
+
+Now that you have your workspace set up, what do you want to try using Git for?
+	
+	I want to try using it for my projects in android, I want to be able to focuss on developing
+	my projects and let the version control be automated.
+
+	Old before ver 31
+
+	I dont, but if i had my workspace set up, i would like to use it to be able to see my code in different devices and to have a 	better version control of the changes in my android code
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
