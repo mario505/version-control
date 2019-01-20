@@ -9,9 +9,9 @@ How is the staging area different from the working directory and the repository?
 	use for my commits, and it offers me the option to customize how I want to do the 
 	commits in my projects
 	
+How can you use the staging area to make sure you have one commit per logical change?
 	
-	
-	
-	
+	With the staging area, i can control wich files to commit, so I'ts possible to only commit the files that I need
+	to make the logical change I'm doing 
 	
 	
