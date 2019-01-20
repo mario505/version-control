@@ -13,5 +13,10 @@ How can you use the staging area to make sure you have one commit per logical ch
 	
 	With the staging area, i can control wich files to commit, so I'ts possible to only commit the files that I need
 	to make the logical change I'm doing 
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+	For example, if I need to test new extra features that are not central to my projects, but I'm not sure yet on 
+	how to make them and I need to test this new changes while advancing with the main version as planned.
 	
 	
