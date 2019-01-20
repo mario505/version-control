@@ -1,0 +1,13 @@
+﻿What happens when you initialize a repository? Why do you need to do it?
+
+	The directory where I did the commit becomes accesible to commits and versioning,
+	which is essential for version control
+	
+	
+	
+	
+	
+	
+	
+	
+	
