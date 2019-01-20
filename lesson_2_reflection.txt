@@ -3,7 +3,11 @@
 	The directory where I did the commit becomes accesible to commits and versioning,
 	which is essential for version control
 	
-	
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+	The staging area is unique because it allows to me control manually wich files I will
+	use for my commits, and it offers me the option to customize how I want to do the 
+	commits in my projects
 	
 	
 	
