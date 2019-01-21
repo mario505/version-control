@@ -30,3 +30,9 @@ What is the result of merging two branches together? Why do we represent it in t
 	both branchs have before being created.
 	I think you represent it that way to show that with the merge u combine all the commits made from the branches to 
 	a base point, this means that no commit in both branches gets lost with the merge
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+	With gits automatic margin there is no way of being 100% sure that the merge will be right if a conflict occurs,
+	but the same thing could be said about manually merging, so I think i'd prefer the automated way since it
+	offers tools to better indicate the exact lines of code that need to be revised when a merge is done
