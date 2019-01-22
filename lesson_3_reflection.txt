@@ -7,4 +7,11 @@ Why might you want to always pull changes manually rather than having Git automa
 	I think i'ts better if I decide when to pull the version because I might had added new local commits that may have conflicts
 	with the remote repository
 
-	
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+	forks are like clones of repository, but the new pushes that will be done will only affect
+	the forked repository, it will never change the original repository
+	clones let me make changes to a repository locally and then push them to the remote repository
+	branches are changes that i need to test using the code of the main repository but 
+	without directly changing the master branch, only when I decide that the changes in
+	the branch should be merged with the master branch I will merge them.
