@@ -21,3 +21,8 @@ What is the benefit of having a copy of the last known state of the remote store
 	This way it will be easier to commit my changes to the remote repository, because I will
 	know for sure if the changes I'm making will result in any conflicts
 
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+	Sharing the files of the projects would be easier without github, but keeping a tight 
+	control of the main version of the project and the history of the changes would be
+	way more difficult without git
